@@ -228,7 +228,6 @@ a:hover {
 
 .feature-head-text {
     color: #333;
-    padding-top: 15px;
     font-size: 20px;
 }
 
@@ -450,7 +449,6 @@ ul {
 
 .email-input {
     display: inline-block;
-    margin-right: 20px;
     margin-bottom: 20px;
     background-color: white;
     border-radius: 4px;
